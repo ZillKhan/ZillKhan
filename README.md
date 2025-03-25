@@ -1,5 +1,10 @@
 ## Hi there 👋, I'm Zill Ullah Khan 
 
+🔭 I’m currently working on Industrial IoT gateways (eWON,TC3G/TC4G)
+🌱 I’m currently learning Java.
+👯 I’m looking to collaborate on IoT based Project based on ESP32(ESPIDF),STM32,Linux
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zill-khan/) | [Email](zill277@gmail.com)
+⚡ Fun fact: I love reverse engineering hardware and automating everyday tasks with embedded devices!
 <!--
 **ZillKhan/ZillKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
